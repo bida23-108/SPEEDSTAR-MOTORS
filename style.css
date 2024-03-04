@@ -1,4 +1,21 @@
 
+
+
+
+div {
+    class: wrapper
+ }
+body {
+   background-color: grey
+}
+
+
+h1 {
+  background-color: white;
+   }
+    head {
+  background-color: black;
+   }
 /* style footer */
 
 #footer{
