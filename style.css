@@ -1,12 +1,14 @@
 
-
+header {
+    role: banner;
+}
 
 
 div {
-    class: wrapper
+    class: wrapper;
  }
 body {
-   background-color: grey
+   background-color: grey ;
 }
 
 
@@ -16,9 +18,19 @@ h1 {
     head {
   background-color: black;
    }
-/* style footer */
+   h1 {
+  background-color: white;
+   }
+    head {
+  background-color: black;
+   }
+      h2 { background-color: dark grey;
+         }
+      h3 { background-color: grey;
+         }
 
-#footer{
+
+footer{
 
     height:80px;
 
